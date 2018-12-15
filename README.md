@@ -9,7 +9,8 @@ git clone git@github.com:vrazumov/my-web-klass-projects.git
 
 1. add
 2. commit
-3. push to
+3. push to git@github.com:vrazumov/my-web-klass-projects.git
+4. push
 
 git push git@github.com:vrazumov/my-web-klass-projects.git
 # Update repository
