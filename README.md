@@ -42,14 +42,15 @@ git clone -b develop git@github.com:vrazumov/my-web-klass-projects.git
 ### Clones a repository to your computer
 git clone git@github.com:vrazumov/my-web-klass-projects.git
 
-### Update
+### Добавление файлов
 1. add текущие изменения
 2. commit
 3. push to git@github.com:vrazumov/my-web-klass-projects.git
 4. push
 
-...
-123
+Если у вас есть желание пропустить этап индексирования, Git предоставляет простой способ. Добавление параметра -a в команду git commit заставляет Git автоматически индексировать каждый уже отслеживаемый на момент коммита файл, позволяя вам обойтись без git add:
+
+## Удаление файлов
 
 
 
