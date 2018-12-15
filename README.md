@@ -15,6 +15,9 @@ git clone git@github.com:vrazumov/my-web-klass-projects.git
 git push git@github.com:vrazumov/my-web-klass-projects.git
 # Update repository
 
+## Clone branch
+git clone -b develop git@github.com:vrazumov/my-web-klass-projects.git
+
 
 
 
